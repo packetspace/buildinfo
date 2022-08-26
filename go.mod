@@ -1,3 +1,3 @@
-module github.com/mike-joseph/buildinfo
+module github.com/packetspace/buildinfo
 
 go 1.18
