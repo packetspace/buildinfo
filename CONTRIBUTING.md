@@ -1,4 +1,6 @@
-# Contributing to buildinfo
+# Contributing to `buildinfo`
+
+For more information on the `buildinfo` project, please see the project's [README](README.md).
 
 ## Canonical Repository
 
